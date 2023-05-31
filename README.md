@@ -24,21 +24,21 @@ npm install
 
 1. Inicie o servidor:
 
-npm start
+  npm start
 
 Isso iniciará o servidor JSON na porta 3000 e você poderá acessar a API em `http://localhost:3000`.
 
 2. Teste a API utilizando ferramentas como o Postman ou o cURL. Aqui estão alguns exemplos de endpoints disponíveis:
 
-GET /products: Retorna todos os produtos.
+  GET /products: Retorna todos os produtos.
 
-GET /products/:id: Retorna um produto específico com base no ID fornecido.
+  GET /products/:id: Retorna um produto específico com base no ID fornecido.
 
-POST /products: Cria um novo produto.
+  POST /products: Cria um novo produto.
 
-PUT /products/:id: Atualiza um produto existente com base no ID fornecido.
+  PUT /products/:id: Atualiza um produto existente com base no ID fornecido.
 
-DELETE /products/:id: Exclui um produto com base no ID fornecido.
+  DELETE /products/:id: Exclui um produto com base no ID fornecido.
 
 Certifique-se de substituir `:id` pelos IDs reais dos produtos ao fazer requisições PUT e DELETE.
 
