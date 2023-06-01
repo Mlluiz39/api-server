@@ -1,13 +1,94 @@
 {
   "products": [
     {
-      "name": "Rvrvtv",
-      "code": "45",
-      "category": "Center",
-      "description": "Cr3ecvrcv",
-      "price": "45",
-      "path": "file:///Users/marceloluiz/Library/Developer/CoreSimulator/Devices/B7E5BAE9-7A68-435B-A443-124A20077113/data/Containers/Data/Application/9C6D4C90-F0D6-46A1-A70F-F9849C803B58/Library/Caches/ExponentExperienceData/%2540mlluiz39%252Fprojeto_unidade_4/ImagePicker/91D37B45-DEE2-41B4-ACA3-752E3C30F512.jpg",
-      "id": 1685573082051
+      "id": 1,
+      "name": "iPhone 14",
+      "code": "123456",
+      "category": "Eletrônicos",
+      "description": "O novo iPhone 14 é um smartphone poderoso. ",
+      "price": "4999.99",
+      "path": "https://s2.glbimg.com/p5Z-6dYDcYUiQjrvN0BkvsoCUo8=/0x0:695x695/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/L/h/92sByoTHKBFtpiw6NssQ/suposto-iphone-14.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "code": "789012",
+      "category": "Eletrônicos",
+      "description": "O Samsung Galaxy S21 é um smartphone poderoso.",
+      "price": "3999.99",
+      "path": "https://i0.wp.com/www.querapidoangola.com/wp-content/uploads/2021/03/1_27-1.jpg?fit=1200%2C1200&ssl=1"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Casual",
+      "code": 345678,
+      "category": "Roupas",
+      "description": "Uma camiseta casual confortável.",
+      "price": 59.99,
+      "path": "https://m.media-amazon.com/images/I/51VjyhxtwwL._AC_SX425_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Calça Jeans",
+      "code": 901234,
+      "category": "Roupas",
+      "description": "Uma calça jeans clássica e durável.",
+      "price": 89.99,
+      "path": "https://www.tradeinn.com/f/13713/137133676/jack---jones-jeans-glenn-original-am-814-slim.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Monitor LG Ultrawide",
+      "code": 567890,
+      "category": "Eletrônicos",
+      "description": "Um monitor LG Ultrawide.",
+      "price": 999.99,
+      "path": "https://www.girafa.com.br/visao/default/img/produtos/Informatica/Monitores/monitor-lg-ultrawide-29-fhd-freesync-hdr10-hdmi-29wl500-b-75hz-5ms-897954-1667477778-1.webp"
+    },
+    {
+      "id": 6,
+      "name": "Sapato Social",
+      "code": 123789,
+      "category": "Roupas",
+      "description": "Um sapato social elegante e confortável.",
+      "price": 149.99,
+      "path": "https://m.media-amazon.com/images/I/61EH1x46O3L._AC_SY500_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "PlayStation 5",
+      "code": 456123,
+      "category": "Eletrônicos",
+      "description": "O PlayStation 5 oferece uma experiência de jogo de última geração com gráficos incríveis e desempenho excepcional.",
+      "price": 4499.99,
+      "path": "https://m.media-amazon.com/images/I/41oDp+WGmDL._AC_SX679_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jaqueta de Couro",
+      "code": 987654,
+      "category": "Roupas",
+      "description": "Uma jaqueta de couro genuíno.",
+      "price": 199.99,
+      "path": "https://cdn.shopify.com/s/files/1/0587/5892/2410/products/jaqueta-racer-de-couro-masculina-jaqueta-racer-de-couro-masculina-vinnci-store-preto-p-366485_600x.jpg?v=1685481053"
+    },
+    {
+      "id": 9,
+      "name": "Fone de Ouvido sem Fio",
+      "code": 321654,
+      "category": "Eletrônicos",
+      "description": "Um fone de ouvido sem fio.",
+      "price": 149.99,
+      "path": "https://m.media-amazon.com/images/I/51WaqtCrZtL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Camiseta Esportiva",
+      "code": 654987,
+      "category": "Roupas",
+      "description": "Uma camiseta esportiva leve.",
+      "price": 39.99,
+      "path": "https://static.netshoes.com.br/produtos/camiseta-kappa-dornan-masculino-marinho/12/D24-5015-012/D24-5015-012_zoom1.jpg?ts=1663853152&ims=544x"
     }
   ]
 }
